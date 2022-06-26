@@ -1,3 +1,3 @@
 # DIO_Series
 
-Projeto de cadastro via console simples utilzando o c#
+Aplicativo console de cadastro de séries simples utilizando o C#
